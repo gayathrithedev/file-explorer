@@ -1,0 +1,25 @@
+.folder {
+    padding-left: 16px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(233, 233, 233);
+    margin-top: 5px;
+    width: 300px;
+    cursor: pointer;
+    padding: 5px;
+}
+.file {
+    padding-left: 16px;
+    max-width: 300px;
+    background-color: white;
+    margin-top: 5px;
+}
+.button {
+    border: 1px solid black;
+    cursor: pointer;
+    padding: 3px;
+    margin-right: 5px;
+    border-radius: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
